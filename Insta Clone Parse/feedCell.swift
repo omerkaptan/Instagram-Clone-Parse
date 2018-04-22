@@ -1,10 +1,3 @@
-//
-//  feedCell.swift
-//  Insta Clone Parse
-//
-//  Created by Atil Samancioglu on 21/06/2017.
-//  Copyright © 2017 Atil Samancioglu. All rights reserved.
-//
 
 import UIKit
 import Parse
